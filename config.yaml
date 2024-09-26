@@ -1,0 +1,24 @@
+alibabaCloud:
+  accessKeyId: "自己的key"
+  accessKeySecret: "自己的secret"
+
+rabbitmq:
+  host: 自己的地址
+  port: 5672
+  username: username
+  password: password
+  virtual-host: yingke
+
+mysql:
+  host: 自己的地址
+  port: 3306
+  username: wuzhisong
+  password: wuzhisong_50
+  database: calendar_reminder
+  charset: utf8mb4
+
+redis:
+  host: 自己的地址
+  port: 6379
+  password: ""
+  db: 3
